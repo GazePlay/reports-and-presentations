@@ -29,3 +29,7 @@ __Ek Sannara__
 __Jordan Arrigo__
 * [Report](Reports/Arrigo_Jordan_Rapport.pdf) 
 * [Presentation](Presentations/Arrigo_Jordan_Slide.pdf)
+
+__Vincent Arnone__
+* [Report](Reports/Rapport Arnone Vincent M2.zip) 
+* [Presentation](Presentations/Arnone Slide.pdf)
