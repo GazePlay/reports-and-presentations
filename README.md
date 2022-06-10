@@ -25,3 +25,7 @@ __Téo Blachère__
 
 __Ek Sannara__
 * [Report](Reports/SannaraReport-2019.pdf)
+
+__Jordan Arrigo__
+* [Report](Reports/Arrigo_Jordan_Rapport.pdf) 
+* [Presentation](Presentations/Arrigo_Jordan_Slide.pdf)
