@@ -31,5 +31,8 @@ __Jordan Arrigo__
 * [Presentation](Presentations/Arrigo_Jordan_Slide.pdf)
 
 __Vincent Arnone__
-* [Report](Reports/Rapport&nbsp;Arnone&nbsp;Vincent&nbsp;M2.zip) 
-* [Presentation](Presentations/Arnone&nbsp;Slide.pdf)
+* [Report](Reports/Rapport&nbsp;Arnone_Vincent_M2.zip) 
+* [Presentation](Presentations/Arnone_Slide.pdf)
+
+__Xiao Yucheng__
+* [Report](Reports/Xiao.pdf)
