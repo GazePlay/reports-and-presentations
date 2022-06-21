@@ -31,9 +31,13 @@ __Jordan Arrigo__
 * [Presentation](Presentations/Arrigo_Jordan_Slide.pdf)
 
 __Vincent Arnone__
-* [Report](Reports/Rapport&nbsp;Arnone_Vincent_M2.zip) 
+* [Report](Reports/Rapport_Arnone_Vincent_M2.zip) 
 * [Presentation](Presentations/Arnone_Slide.pdf)
 
 __Xiao Yucheng__
-* [Report](Reports/Xiao.pdf)
+* [Report](Reports/XiaoYucheng_Report.pdf)
+* [Presentation](Presentations/XiaoYucheng_Slide.pdf)
 * [Git](https://github.com/SaviorSeva/pytorch_mpiigaze)
+
+__Jia Xiao__
+* [Report](Reports/JiaXiao_Report.pdf)
