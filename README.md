@@ -41,3 +41,6 @@ __Xiao Yucheng__
 
 __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
+
+__Lucie Mazué__
+* [Report](Reports/Lucie_Mazué_Rapport.pdf)
