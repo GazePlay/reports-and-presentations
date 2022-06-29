@@ -48,3 +48,4 @@ __Lucie Mazué__
 
 __Hugo Bantignies__
 * [Report](Reports/Bantignies_Hugo_Rapport.pdf)
+* [Presentation](Presentations/Hugo_Bantignies_Slide.pdf)
