@@ -49,3 +49,6 @@ __Lucie Mazué__
 __Hugo Bantignies__
 * [Report](Reports/Bantignies_Hugo_Rapport.pdf)
 * [Presentation](Presentations/Hugo_Bantignies_Slide.pdf)
+
+__Quoc Bao Tran__
+* [Presentation](Presentations/Quoc_Bao_Tran_slides.pdf)
