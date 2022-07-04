@@ -45,6 +45,7 @@ __Jia Xiao__
 
 __Lucie Mazué__
 * [Report](Reports/Lucie_Mazué_Rapport.pdf)
+* [Presentation](Presentations/Lucie_Mazué_Slides.pdf)
 
 __Hugo Bantignies__
 * [Report](Reports/Bantignies_Hugo_Rapport.pdf)
