@@ -52,6 +52,7 @@ __Hugo Bantignies__
 * [Presentation](Presentations/Hugo_Bantignies_Slide.pdf)
 
 __Quoc Bao Tran__
+* [Report](Reports/Quoc_Bao_Tran_Report.pdf)
 * [Presentation](Presentations/Quoc_Bao_Tran_slides.pdf)
 
 __Daniel Enora__
