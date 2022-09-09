@@ -53,3 +53,10 @@ __Hugo Bantignies__
 
 __Quoc Bao Tran__
 * [Presentation](Presentations/Quoc_Bao_Tran_slides.pdf)
+
+__Daniel Enora__
+* [Report](Reports/Daniel_Enora_Rapport.pdf)
+* [Presentation](Presentations/Daniel_Enora_Slides.pdf)
+
+__Nassih Ouissal__
+* [Report](Reports/Nassih_Ouissal_Rapport.pdf)
