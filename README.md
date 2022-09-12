@@ -61,3 +61,4 @@ __Daniel Enora__
 
 __Nassih Ouissal__
 * [Report](Reports/Nassih_Ouissal_Rapport.pdf)
+* [Presentation](Presentations/Nassih_Ouissal_slides.pdf)
