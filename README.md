@@ -4,7 +4,7 @@ A collection of the academic papers written by students contributing to GazePlay
 
 # Université grenoble Alpes
 
-## Mosig
+## Mosig (Master Of Science In Informatics At Grenoble)
 
 __Wafaa El Husseini__
 * [Report](Reports/ELHUSSEINI_Report.pdf) 
@@ -23,37 +23,37 @@ __Hugo Bantignies__
 * [Report](Reports/Bantignies_Hugo_Rapport.pdf)
 * [Presentation](Presentations/Hugo_Bantignies_Slide.pdf)
 
-## Miage
+## Miage (Master Méthodes informatiques appliquées à la gestion des entreprises)
 
 __Quoc Bao Tran__
 * [Report](Reports/Quoc_Bao_Tran_Report.pdf)
 * [Presentation](Presentations/Quoc_Bao_Tran_slides.pdf)
 
-## Ensimag
+## Ensimag (École nationale supérieure d'informatique et de mathématiques appliquées à Grenoble)
 
 __Peter Bardawil__
 * [Report](Reports/BARDAWIL_Report.pdf) 
 * [Presentation](Presentations/BARDAWIL-slides.pdf)
 
-## Iese
+## Iese (Ingénieur de Polytech Grenoble spécialité Informatique et électronique)
 
 __Daniel Enora__
 * [Report](Reports/Daniel_Enora_Rapport.pdf)
 * [Presentation](Presentations/Daniel_Enora_Slides.pdf)
 
-## Dipilem
+## Dipilem (Master Didactique Des Langues Et Ingénierie Pédagogique Numérique)
 
 __Nassih Ouissal__
 * [Report](Reports/Nassih_Ouissal_Rapport.pdf)
 * [Presentation](Presentations/Nassih_Ouissal_slides.pdf)
 
-## Llasic
+## Llasic (Langage, lettres, arts du spectacle, information et communication, journalisme)
 
 __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
 * [Presentation](Presentations/Jia_Xiao_Slides.pdf)
 
-## Autre
+## Imag (Informatique, mathématiques et mathématiques appliquées)
 
 __Johana Marku__
 * [Report](Reports/MARKU-final-report.pdf) 
