@@ -53,6 +53,12 @@ __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
 * [Presentation](Presentations/Jia_Xiao_Slides.pdf)
 
+## Master Informatique Génie Logiciel
+
+__Vincent Arnone__
+* [Report](Reports/Rapport_Arnone_Vincent_M2.zip) 
+* [Presentation](Presentations/Arnone_Slide.pdf)
+
 ## Imag (Informatique, mathématiques et mathématiques appliquées)
 
 __Johana Marku__
@@ -64,10 +70,6 @@ __Téo Blachère__
 
 __Ek Sannara__
 * [Report](Reports/SannaraReport-2019.pdf)
-
-__Vincent Arnone__
-* [Report](Reports/Rapport_Arnone_Vincent_M2.zip) 
-* [Presentation](Presentations/Arnone_Slide.pdf)
 
 # Université Savoie Mont Blanc
 
