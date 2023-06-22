@@ -2,7 +2,7 @@
 
 A collection of the academic papers written by students contributing to GazePlay
 
-# Université grenoble Alpes
+# Université Grenoble Alpes
 
 ## Mosig (Master Of Science In Informatics At Grenoble)
 
@@ -70,6 +70,10 @@ __Téo Blachère__
 
 __Ek Sannara__
 * [Report](Reports/SannaraReport-2019.pdf)
+
+__Hugolin Bouhineau__
+* [Report](Reports/Bouhineau_Hugolin_Report.pdf) 
+* [Presentation](Presentations/Bouhineau_slides.pdf)
 
 # Université Savoie Mont Blanc
 
