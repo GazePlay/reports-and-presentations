@@ -77,7 +77,7 @@ __Hugolin Bouhineau__
 
 ## BUT (Bachelors universitaires de technologie)
 
-__Yanis Giradin__
+__Yanis Girardin__
 * [Report](Reports/Yanis_Girardin_Report.pdf) 
 * [Presentation](Presentations/Yanis_Girardin_slides.pdf)
 
