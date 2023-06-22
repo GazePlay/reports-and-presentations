@@ -59,7 +59,7 @@ __Vincent Arnone__
 * [Report](Reports/Rapport_Arnone_Vincent_M2.zip) 
 * [Presentation](Presentations/Arnone_Slide.pdf)
 
-## Imag (Informatique, mathématiques et mathématiques appliquées)
+## IM²AG (Informatique, mathématiques et mathématiques appliquées)
 
 __Johana Marku__
 * [Report](Reports/MARKU-final-report.pdf) 
@@ -74,6 +74,12 @@ __Ek Sannara__
 __Hugolin Bouhineau__
 * [Report](Reports/Bouhineau_Hugolin_Report.pdf) 
 * [Presentation](Presentations/Bouhineau_slides.pdf)
+
+## BUT (Bachelors universitaires de technologie)
+
+__Yanis Giradin__
+* [Report](Reports/Yanis_Girardin_Report.pdf) 
+* [Presentation](Presentations/Yanis_Girardin_slides.pdf)
 
 # Université Savoie Mont Blanc
 
