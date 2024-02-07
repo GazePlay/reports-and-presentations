@@ -37,7 +37,7 @@ __Peter Bardawil__
 
 ## Iese (Ingénieur de Polytech Grenoble spécialité Informatique et électronique)
 
-__Daniel Enora__
+__Enora Daniel__
 * [Report](Reports/Daniel_Enora_Rapport.pdf)
 * [Presentation](Presentations/Daniel_Enora_Slides.pdf)
 
