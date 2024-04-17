@@ -10,7 +10,7 @@ __Wafaa El Husseini__
 * [Report](Reports/ELHUSSEINI_Report.pdf) 
 * [Presentation](Presentations/ELHUSSEINI-slides.pdf)
 
-__Hai Long Truong__
+__Hai-Long Truong__
 * [Report](Reports/TRUONG-2019.pdf) 
 * [Presentation](Presentations/TRUONG_slides.pdf)
 
