@@ -23,15 +23,15 @@ __Hugo Bantignies__
 * [Report](Reports/Bantignies_Hugo_Rapport.pdf)
 * [Presentation](Presentations/Hugo_Bantignies_Slide.pdf)
 
+__Seban Jules__
+* [Report](Reports/Seban_report.pdf)
+* [Presentation](Presentations/Seban_slides.pdf)
+
 ## Miage (Master Méthodes informatiques appliquées à la gestion des entreprises)
 
 __Quoc Bao Tran__
 * [Report](Reports/Quoc_Bao_Tran_Report.pdf)
 * [Presentation](Presentations/Quoc_Bao_Tran_slides.pdf)
-
-__Seban Jules__
-* [Report](Reports/Seban_report.pdf)
-* [Presentation](Presentations/Seban_slides.pdf)
 
 ## Ensimag (École nationale supérieure d'informatique et de mathématiques appliquées à Grenoble)
 
