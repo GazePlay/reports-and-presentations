@@ -99,6 +99,10 @@ __Rachel Peretti__
 * [Report](Reports/Peretti_Rachel_Rapport.pdf) 
 * [Presentation](Presentations/Peretti_Rachel_slides.pdf)
 
+__Yanis Harkati__
+* [Report](Reports/Harkati_Yanis_Rapport.pdf) 
+* [Presentation](Presentations/Harkati_Yanis_slides.pdf) 
+
 # Université Savoie Mont Blanc
 
 ## Master Informatique
