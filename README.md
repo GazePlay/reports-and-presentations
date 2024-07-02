@@ -93,6 +93,12 @@ __Paul Sode__
 * [Report](Reports/Paul_Sode_Report.pdf) 
 * [Presentation](Presentations/Paul_Sode_slides.pdf)
 
+## IUT (Institut universitaire de technologie)
+
+__Rachel Peretti__
+* [Report](Reports/Peretti_Rachel_Rapport.pdf) 
+* [Presentation](Presentations/Peretti_Rachel_slides.pdf)
+
 # Université Savoie Mont Blanc
 
 ## Master Informatique
