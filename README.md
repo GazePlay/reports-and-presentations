@@ -101,7 +101,11 @@ __Rachel Peretti__
 
 __Yanis Harkati__
 * [Report](Reports/Harkati_Yanis_Rapport.pdf) 
-* [Presentation](Presentations/Harkati_Yanis_slides.pdf) 
+* [Presentation](Presentations/Harkati_Yanis_slides.pdf)
+
+__Enzo Vigne__
+* [Report](Reports/Vigne_Enzo_Rapport.pdf) 
+* [Presentation](Presentations/Vigne_Enzo_slides.pdf) 
 
 # Université Savoie Mont Blanc
 
