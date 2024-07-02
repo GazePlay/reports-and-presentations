@@ -105,7 +105,11 @@ __Yanis Harkati__
 
 __Enzo Vigne__
 * [Report](Reports/Vigne_Enzo_Rapport.pdf) 
-* [Presentation](Presentations/Vigne_Enzo_slides.pdf) 
+* [Presentation](Presentations/Vigne_Enzo_slides.pdf)
+
+__Esteban Elias Pueyo__
+* [Report](Reports/Elias_Pueyo_Esteban_Rapport.pdf) 
+* [Presentation](Presentations/Elias_Pueyo_Esteban_slides.pdf) 
 
 # Université Savoie Mont Blanc
 
