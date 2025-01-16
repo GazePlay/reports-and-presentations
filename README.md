@@ -55,6 +55,8 @@ __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
 * [Presentation](Presentations/Jia_Xiao_Slides.pdf)
 
+## Idl (Industrie de la langue)
+
 __Lucie Chasseur__
 * [Report](Reports/Lucie_Chasseur_M2.pdf)
 
