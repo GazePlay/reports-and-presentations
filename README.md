@@ -44,11 +44,6 @@ __Peter Bardawil__
 __Enora Daniel__
 * [Report](Reports/Daniel_Enora_Rapport.pdf)
 * [Presentation](Presentations/Daniel_Enora_Slides.pdf)
-
-## LLASIC (Langage, lettres, arts du spectacle, information et communication, journalisme)
-
-__Lucie Chasseur__
-* [Report](Reports/Lucie_Chasseur_M2.pdf)
   
 ## Dipilem (Master Didactique Des Langues Et Ingénierie Pédagogique Numérique)
 
@@ -61,6 +56,9 @@ __Nassih Ouissal__
 __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
 * [Presentation](Presentations/Jia_Xiao_Slides.pdf)
+
+__Lucie Chasseur__
+* [Report](Reports/Lucie_Chasseur_M2.pdf)
 
 ## Master Informatique Génie Logiciel
 
