@@ -44,14 +44,12 @@ __Peter Bardawil__
 __Enora Daniel__
 * [Report](Reports/Daniel_Enora_Rapport.pdf)
 * [Presentation](Presentations/Daniel_Enora_Slides.pdf)
-  
-## Dipilem (Master Didactique Des Langues Et Ingénierie Pédagogique Numérique)
+
+## Llasic (Langage, lettres, arts du spectacle, information et communication, journalisme)
 
 __Nassih Ouissal__
 * [Report](Reports/Nassih_Ouissal_Rapport.pdf)
 * [Presentation](Presentations/Nassih_Ouissal_slides.pdf)
-
-## Llasic (Langage, lettres, arts du spectacle, information et communication, journalisme)
 
 __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
