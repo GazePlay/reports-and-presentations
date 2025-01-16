@@ -45,6 +45,11 @@ __Enora Daniel__
 * [Report](Reports/Daniel_Enora_Rapport.pdf)
 * [Presentation](Presentations/Daniel_Enora_Slides.pdf)
 
+## LLASIC (Langage, lettres, arts du spectacle, information et communication, journalisme)
+
+__Lucie Chasseur__
+* [Report](Reports/Lucie_Chasseur_M2.pdf)
+  
 ## Dipilem (Master Didactique Des Langues Et Ingénierie Pédagogique Numérique)
 
 __Nassih Ouissal__
