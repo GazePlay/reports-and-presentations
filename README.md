@@ -45,7 +45,7 @@ __Enora Daniel__
 * [Report](Reports/Daniel_Enora_Rapport.pdf)
 * [Presentation](Presentations/Daniel_Enora_Slides.pdf)
 
-## Llasic (Langage, lettres, arts du spectacle, information et communication, journalisme)
+## Dilipem (Didactique des langues et ingénierie pédagogique numérique)
 
 __Nassih Ouissal__
 * [Report](Reports/Nassih_Ouissal_Rapport.pdf)
@@ -55,7 +55,7 @@ __Jia Xiao__
 * [Report](Reports/JiaXiao_Report.pdf)
 * [Presentation](Presentations/Jia_Xiao_Slides.pdf)
 
-## Idl (Industrie de la langue)
+## IDL (Industrie de la langue)
 
 __Lucie Chasseur__
 * [Report](Reports/Lucie_Chasseur_M2.pdf)
