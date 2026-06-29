@@ -112,6 +112,12 @@ __Esteban Elias Pueyo__
 * [Report](Reports/Elias_Pueyo_Esteban_Rapport.pdf) 
 * [Presentation](Presentations/Elias_Pueyo_Esteban_slides.pdf) 
 
+## IUT (Institut universitaire de technologie)
+
+__Simon Favreau & Thomas Peterschmitt__
+* [Report](Reports/Simon_Favreau_Thomas_Peterschmitt_Rapport.pdf) 
+* [Presentation](Presentations/Simon_Favreau_Thomas_Peterschmitt_slides.pdf)
+  
 # Université Savoie Mont Blanc
 
 ## Master Informatique
